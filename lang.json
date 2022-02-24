@@ -1,0 +1,8 @@
+{
+    "TASK_CREATE": {
+        "en": "Task successfully created"
+    },
+    "TASK_UPDATED": {
+        "en": "Task updated successfully"
+    }
+}
